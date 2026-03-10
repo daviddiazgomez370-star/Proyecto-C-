@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartUrban.DAL2
 {
-    internal class Class1
+    public class ProveedorDAL
     {
     }
 }
