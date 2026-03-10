@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../SmartUrban.DAL2/SmartUrban.DAL2.csproj" Id="a6502558-ca9c-4e66-bd90-7f7989ac9e42" />
+  <Project Path="SmartUrban.BLL/SmartUrban.BLL.csproj" Id="535caabf-b4db-4538-83e0-5e1c557b6c63" />
+  <Project Path="SmartUrban.csproj" Id="d1b6e17d-ed81-4a91-ac59-51df1211fc82" />
+  <Project Path="SmartUrban.ENT/SmartUrban.ENT.csproj" Id="bba9754a-6e40-4b69-9ae9-5e0775f24692" />
+  <Project Path="SmartUrban.Web/SmartUrban.Web.csproj" Id="bc82eebf-757c-4f3f-b2ed-4e942aa43280" />
+</Solution>
